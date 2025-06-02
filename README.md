@@ -10,7 +10,7 @@
  
  
  * 🎓 Bachelor's degree in Computer and Information Systems
- * 💻 2 years and a half experience working mobile apps using Flutter 
+ * 💻 3 years and a half experience working mobile apps using Flutter 
  * know more about my experience? [nourhan-developer.pdf](https://github.com/NourSabry/NourSabry/files/10722307/nourhan-developer.pdf)
  
  
