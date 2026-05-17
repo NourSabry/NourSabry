@@ -2,7 +2,7 @@
                                           
                                            
 ## Hello Geeks! i'm nourhan sabry 👋
-#### Mobile Application Developer (Flutter)
+#### Mobile Application Developer
                                                  
                                                    
 
